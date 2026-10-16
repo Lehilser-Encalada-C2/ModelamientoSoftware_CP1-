@@ -57,6 +57,7 @@ Correcciones aplicadas en la versión definitiva:
 4. Organización del repositorio
 
 
+<img width="343" height="282" alt="image" src="https://github.com/user-attachments/assets/2dab7b97-0636-41d8-9ca5-9757b537be93" />
 
 
 
